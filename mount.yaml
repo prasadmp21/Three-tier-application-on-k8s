@@ -1,0 +1,2 @@
+volumeMounts:
+- mountPath: /data/db
